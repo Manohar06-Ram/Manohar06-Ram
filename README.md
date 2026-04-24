@@ -58,14 +58,6 @@ I'm passionate about turning raw data into meaningful insights that drive real b
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Manohar06-Ram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manohar06-Ram&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manohar06-Ram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 🎯 Currently Working Towards
 
 - [ ] Build 3 end-to-end projects (Fintech + Motorsport)
