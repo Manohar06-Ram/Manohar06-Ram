@@ -2,7 +2,7 @@
 
 Hey! I'm **Manohar**, an aspiring **Data Analyst** from Bengaluru, India.
 
-I'm passionate about turning raw data into meaningful insights that drive real business decisions. My two biggest domain interests are **Fintech** — where data powers financial intelligence  and **Motorsport Analytics** —>> where every millisecond of data counts 🏎️
+I'm passionate about turning raw data into meaningful insights that drive real business decisions. My two biggest domain interests are **Fintech** — where data powers financial intelligence  and **Motorsport Analytics** — where every millisecond of data counts 🏎️
 
 - 🔭 Currently working on **Data Analytics & building my project portfolio**
 - 🤝 Looking to collaborate with people who want to **build products that solve real-world problems**
