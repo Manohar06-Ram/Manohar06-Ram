@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hey! I'm **Manohar**, an aspiring **Data Analyst** from Bengaluru, India 🇮🇳
+Hey! I'm **Manohar**, an aspiring **Data Analyst** from Bengaluru, India.
 
 I'm passionate about turning raw data into meaningful insights that drive real business decisions. My two biggest domain interests are **Fintech** —>> where data powers financial intelligence  and **Motorsport Analytics** —>> where every millisecond of data counts 🏎️
 
